@@ -1,7 +1,7 @@
 ---
 name: Phiếu yêu cầu
-about: Describe this issue template's purpose here.
-title: 'YC - '
+about: Ghi nhận yêu cầu mới
+title: 'Yêu cầu - '
 labels: ''
 assignees: nghitamhongngoc
 
