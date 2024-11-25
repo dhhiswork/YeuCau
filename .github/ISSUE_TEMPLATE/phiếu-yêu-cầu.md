@@ -3,7 +3,7 @@ name: Phiếu yêu cầu
 about: Ghi nhận yêu cầu mới
 title: 'Yêu cầu - '
 labels: 2. Bình thường
-assignees: nghivanbi, nghitamhongngoc
+assignees: nghivanbi
 
 ---
 
